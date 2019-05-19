@@ -1,5 +1,5 @@
 # Yahoo Music Recommendation System
-In this project, we built a Recommender System based on the hierarchial music data set of Yahoo. 
+In this project, we built a Recommender System based on the hierarchical music data set of Yahoo. 
 
 ## Dataset Description and the competition
 This is the final challenge of the EE627 course.
